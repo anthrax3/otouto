@@ -2,7 +2,7 @@
 return {
 
     -- Your authorization token from the botfather.
-    bot_api_key = nil,
+    bot_api_key = 'nil',
     -- Your Telegram ID (number).
     admin = nil,
     -- Two-letter language code.
